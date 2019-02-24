@@ -2,9 +2,10 @@
 真央ゼミのWebサイト用リポジトリです。
 
 ＃メンバー
-マオ教授</s></s></s></s></s></s></s> </s>
-エルマ</s></s></s></s></s></s></s> </s>
-わかば</s></s></s></s></s></s></s></s
+マオ教授
+エルマス
+わかば
+
 GitHub Pages機能を使って公開されたページは[こちら]（https://elmas3.github.io/mao-seminar/）
 から閲覧できます。
 https://elmas3.github.io/mao-seminar/
